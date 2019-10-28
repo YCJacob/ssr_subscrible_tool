@@ -1,7 +1,9 @@
 ＃议员列表
 
-＃joyo.ga例程1
+＃cog.ssr1
 
-ssr://MTI4LjE5OS4xNDEuMjk6NjQ0ODA6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOmh0dHBfc2ltcGxlOlJIbEhUa1ZzLz9yZW1hcmtzPTVZV3M1THlYNVktMzc3eWFRMngxWWlCdmNpQkhjbTkxY0NEbGo2X25wNEhrdXJyb3JxTHBtSVUmcHJvdG9wYXJhbT1NVEl3TVRnNloycGlkbWRvJm9iZnNwYXJhbT1aall5Wm1VeE1qQXhPQzVxWkM1b2F3
+vmess://YXV0bzo0ZmU2OTljOS1mMmQ1LTRjYmItOWQxNi0zNTQ1M2U3NGM3ZWZAdjAuZGxvbGIubWw6NDQz?remarks=%E5%8A%A0Q%E7%BE%A4%EF%BC%9A954267002%20%E9%98%B2%E5%A4%B1%E8%81%94&obfsParam=v0.dlolb.ml&path=/ff123&obfs=websocket&tls=1&peer=&cert=
 
-ssr://NTIuMTk0LjIxNy4xODg6NjQ0ODA6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOmh0dHBfc2ltcGxlOlJIbEhUa1ZzLz9yZW1hcmtzPTVZV3M1THlYNVktMzc3eWFRMngxWWlCdmNpQkhjbTkxY0NEbGo2X25wNEhrdXJyb3JxTHBtSVUmcHJvdG9wYXJhbT1NVEl3TVRnNloycGlkbWRvJm9iZnNwYXJhbT1aall5Wm1VeE1qQXhPQzVxWkM1b2F3
+#cog.ssr2
+
+vmess://YXV0bzphMjQxZjFlNy03MWZhLTQwMjAtYjg4MS1hNmVhYjhhZTQ0MjlAdjMuZGxvbGIubWw6NDQz?remarks=%E5%8A%A0Q%E7%BE%A4%EF%BC%9A954267002%20%E9%98%B2%E5%A4%B1%E8%81%94&obfsParam=v3.dlolb.ml&path=/ff123&obfs=websocket&tls=1&peer=&cert=
